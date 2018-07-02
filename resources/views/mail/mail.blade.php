@@ -1,0 +1,3 @@
+
+<br>
+<div>{{$bodyMessage}}</div>

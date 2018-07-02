@@ -1,0 +1,20 @@
+
+<!-- Start WOW Slider.com BODY section -->
+<div id="wowslider-container1">
+<div class="ws_images"><ul>
+<li><img src="data1/images/blueberry410655_1280_1.jpg" alt="Blueberry" title="Blueberry" id="wows1_0"/></li>
+<li><img src="data1/images/2anita_foto.jpg" alt="Raspberries" title="Raspberries" id="wows1_1"/></li>
+<li><img src="data1/images/blackberries9390_1280.jpg" alt="Blackberries" title="Blackberries" id="wows1_2"/></li>
+<li><img src="data1/images/background2277_1280_1.jpg" alt="Mix" title="Mix" id="wows1_3"/></li>
+</ul></div>
+<div class="ws_bullets"><div>
+<a href="#" title="Blueberry"><img src="data1/tooltips/blueberry410655_1280_1.jpg" alt="Blueberry"/></a>
+<a href="#" title="Raspberries"><img src="data1/tooltips/2anita_foto.jpg" alt="Raspberries"/></a>
+<a href="#" title="Blackberries"><img src="data1/tooltips/blackberries9390_1280.jpg" alt="Blackberries"/></a>
+<a href="#" title="Mix"><img src="data1/tooltips/background2277_1280_1.jpg" alt="Mix"/></a>
+</div></div>
+<div class="ws_shadow"></div>
+</div>
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOW Slider.com BODY section -->
